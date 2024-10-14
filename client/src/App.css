@@ -1,0 +1,7 @@
+.App {
+    background-color: #F8FBFF ;
+}
+
+.content-container {
+    min-height: 100vh; /* Ensure content takes up full viewport height */
+}
